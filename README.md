@@ -3,7 +3,7 @@ This is a private repo with a collection of ML and algorithmic exercises that I 
 So far, folders you will find in this repo are:
 
 ## CTF
-Capture The Flag is a 'virtual game' for people interested in cybersecurity where the goal is to find a file (or passowrd) in a located in machine. It gives the participants the opportunity to prove their algorithmic skills and Shell scripting knowledge.
+Capture The Flag is a 'virtual game' for people interested in cybersecurity where the goal is to find a file (or passowrd) located in a machine. It gives the participants the opportunity to prove their algorithmic skills and Shell scripting knowledge.
 
 ### Bandit
 Bandit is a 'wargame' at https://overthewire.org/ aimed for CTF begginers to get the basics of the game. Overthewire doesn't allow to publicly post solutions of the game, this is the reason why they are posted in a private repo. I will be updating solutions for each level with Shell scripts as I progress on the game.
