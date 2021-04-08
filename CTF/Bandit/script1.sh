@@ -1,6 +1,6 @@
 #!/bin/bash
 
-ssh bandit1@bandit.labs.overthwire.org -p 2220
+ssh bandit1@bandit.labs.overthewire.org -p 2220
 # Password: boJ9jbbUNNfktd78OOpsqOltutMc3MY1
 
 ls 
